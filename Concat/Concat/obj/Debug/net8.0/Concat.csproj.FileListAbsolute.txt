@@ -1,0 +1,11 @@
+/Users/ruslan/RiderProjects/Concat/Concat/bin/Debug/net8.0/Concat.deps.json
+/Users/ruslan/RiderProjects/Concat/Concat/bin/Debug/net8.0/Concat.dll
+/Users/ruslan/RiderProjects/Concat/Concat/bin/Debug/net8.0/Concat.pdb
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/Concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/Concat.AssemblyInfoInputs.cache
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/Concat.AssemblyInfo.cs
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/Concat.csproj.CoreCompileInputs.cache
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/Concat.dll
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/refint/Concat.dll
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/Concat.pdb
+/Users/ruslan/RiderProjects/Concat/Concat/obj/Debug/net8.0/ref/Concat.dll
