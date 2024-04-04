@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ruslan/RiderProjects/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+  },
+  "projects": {
+    "/Users/ruslan/RiderProjects/Concat/Concat/Concat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslan/RiderProjects/Concat/Concat/Concat.csproj",
+        "projectName": "Concat",
+        "projectPath": "/Users/ruslan/RiderProjects/Concat/Concat/Concat.csproj",
+        "packagesPath": "/Users/ruslan/.nuget/packages/",
+        "outputPath": "/Users/ruslan/RiderProjects/Concat/Concat/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruslan/RiderProjects/HelloWorld/HelloWorld/HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslan/RiderProjects/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "/Users/ruslan/RiderProjects/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "packagesPath": "/Users/ruslan/.nuget/packages/",
+        "outputPath": "/Users/ruslan/RiderProjects/HelloWorld/HelloWorld/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ruslan/RiderProjects/Concat/Concat/Concat.csproj": {
+                "projectPath": "/Users/ruslan/RiderProjects/Concat/Concat/Concat.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
