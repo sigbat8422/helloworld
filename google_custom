@@ -1,7 +1,7 @@
 ! name: sigbat_goggle
-! description Prioritizes domains popular with the Hacker News community, minus those that would rank among the top 1000 most-viewed websites.
-! author: Goggles 101
-! public: true
+! description Prioritizes domains.
+! author: sigbat
+! public: false
 ! avatar: #ff6600
 
 $discard
@@ -6080,4 +6080,3 @@ $boost=2,site=sorentwo.com
 $boost=2,site=thebrowser.com
 $boost=2,site=sslmate.com
 $boost=2,site=blog.nearlyfreespeech.net
-
